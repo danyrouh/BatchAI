@@ -7,6 +7,9 @@ This enables SymSGD users to train a linear model on a large (most likely sparse
 #### [SymSGD-CPU](./SymSGD-CPU)
 This SymSGD-CPU recipe contains information on how to run distributed HPMLA job across multiple CPU nodes with BatchAI.
 
+#### [Data-Sahrding](./Data-Sahrding)
+This SymSGD-CPU Data Sharding recipe shows how to use Jupyter Notebook to shred and deploy your training data prior to running a training job.
+
 -----------------------------------------------------
 You must agree to the following licenses prior to use:
 * [High Performance ML Algorithms License](https://github.com/saeedmaleki/Distributed-Linear-Learner/blob/master/High%20Performance%20ML%20Algorithms%20-%20Standalone%20(free)%20Use%20Terms%20V2%20(06-06-18).txt)
