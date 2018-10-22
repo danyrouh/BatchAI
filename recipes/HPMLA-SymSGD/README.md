@@ -8,7 +8,7 @@ This enables SymSGD users to train a linear model on a large (most likely sparse
 This SymSGD-CPU recipe contains information on how to run distributed HPMLA job across multiple CPU nodes with BatchAI.
 
 #### [Data-Sharding](./Data-Sharding)
-This SymSGD-CPU Data Sharding recipe shows how to use Jupyter Notebook to shred and deploy your training data prior to running a training job.
+This SymSGD Data Sharding recipe shows how to use Jupyter Notebook to shred and deploy your training data prior to running a training job.
 
 -----------------------------------------------------
 You must agree to the following licenses prior to use:
