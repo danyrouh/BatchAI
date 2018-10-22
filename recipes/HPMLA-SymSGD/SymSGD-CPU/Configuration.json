@@ -1,0 +1,34 @@
+{
+    "subscription_id": "",
+    "aad_client_id": "",
+    "aad_secret": "",
+    "aad_tenant": "",
+    "location": "eastus",
+    "base_url": "",
+    "workspace": "",
+	"data_prefix": "",
+	"data_local_dir": "",
+	"data_container_name": "",
+    "resource_group": "",
+    "storage_account" : {
+        "name": "",
+        "key": ""
+    },
+	"input_data_container_name": "",
+	"input_resource_group": "",
+    "input_storage_account" : {
+        "name": "",
+        "key": ""
+    },
+    "admin_user" : {
+        "name": "",
+        "password": "",
+        "ssh_public_key": ""
+    },
+    "keyvault_id": "",
+    "container_registry" : {
+        "user": "",
+        "password": "", 	
+        "secret_url": ""
+    }
+}
