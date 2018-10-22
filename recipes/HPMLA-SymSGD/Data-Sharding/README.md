@@ -1,8 +1,7 @@
 # HPMLA Training Data Sharding
 
 ## Introduction
-This Data Sharding recipe shows how to use Jupyter Notebook to shred and deploy your training data prior to running a training job.  
-This module is offered as is.  It was designed to fit one deployment.  We encourage you to change the code to match your own data scenario.
+This Data Sharding recipe shows how to use Jupyter Notebook to shred and deploy your training data prior to running a training job.  This module is offered as is.  It was designed to fit one deployment.  We encourage you to change the code to match your own data scenario.
 
 ## Instructions to Run Recipe
 
